@@ -1,0 +1,8 @@
+listKata = ("Apel", "Jeruk", "Sirsak", "Mangga")
+print (listKata[0:1])
+print (listKata[0:2])
+print (listKata[0:3])
+print (listKata[0:-1])
+print (listKata[-1:-3])
+print (listKata[-1:3])
+print (listKata[-3:-1])

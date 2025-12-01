@@ -1,0 +1,6 @@
+print (0b10)
+print (0b1010)
+print (0x15D)
+print (0xAA)
+print (0o77)
+print (0o127)
